@@ -40,7 +40,7 @@
 <a href="https://www.canarycoders.es" target="_blank">CanaryCoders</a> is my official brand for coding, based in the peaceful Canary Islands.\
 Kaiiserni, my old nickname = Flemish/Dutch slang for "Kai is not here" ;).
 
-I have always been passionate about technology since childhood, taught myself coding on an i386 pc with an MS-DOS book in the 90s (qbasic), and have worked as a software engineer ever since.\
+I have always been passionate about technology since childhood, taught myself coding on an i386 pc with an MS-DOS book in the early 90s (qbasic), and have been a software engineer ever since.\
 I also have an interest in crypto and I am currently working on a private project that leverages programming and financial markets knowledge.\
 In addition, I enjoy space and philosophy.
   
