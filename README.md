@@ -1,4 +1,4 @@
-## Hello, I'm <a href="https://www.canarycoders.es" target="_blank">Kai</a>!
+## Hello, I'm Kai!
 
 (Use dark theme to find my socials ;)
 
@@ -37,7 +37,7 @@
 
 ### About me
 
-CanaryCoders is my official brand for coding, based in the peaceful Canary Islands. 
+<a href="https://www.canarycoders.es" target="_blank">CanaryCoders</a> is my official brand for coding, based in the peaceful Canary Islands. 
 Kaiiserni, my old nickname = Flemish/Dutch slang for "Kai is not here" ;).
 
 I have always been passionate about technology since childhood, taught myself coding on an i386 pc with an MS-DOS book in the 90s (qbasic), and have worked as a software engineer ever since.
