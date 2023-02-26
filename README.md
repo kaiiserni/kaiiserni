@@ -44,7 +44,7 @@ I have always been passionate about technology since childhood, taught myself co
 I also have an interest in crypto and I am currently working on a private project that leverages programming and financial markets knowledge.
 In addition, I enjoy space and philosophy.
   
-Make sure to also check out my son/padawan's <a href="https://github.com/formalsnake" target="_blank">github profile</a>!
+Make sure to also check out my <a href="https://github.com/formalsnake" target="_blank">son/padawan</a>'s github profile!
 
 <!---
 ---
