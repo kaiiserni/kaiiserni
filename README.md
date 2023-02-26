@@ -1,6 +1,6 @@
 ## Hello, I'm Kai!
 
-(Use dark theme to find my socials ;)
+(Use dark theme to find my socials ;))
 
 <a href="https://www.canarycoders.es" target="_blank"><img align="left" alt="canarycoders.es" width="22px" src="https://github.com/kaiiserni/kaiiserni/blob/main/images/www.svg" /></a>
 <a href="https://www.linkedin.com/in/kdesutter/" target="_blank"><img align="left" alt="Kai De Sutter | LinkedIn" width="22px" src="https://github.com/kaiiserni/kaiiserni/blob/main/images/linkedin.svg" />
