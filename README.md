@@ -1,4 +1,4 @@
-## Hello, I'm <a href="https://www.canarycoders.es" target="_blank">Kaiiserni</a>!
+## Hello, I'm <a href="https://www.canarycoders.es" target="_blank">Kai</a>!
 
 (Use dark theme to find my socials ;)
 
