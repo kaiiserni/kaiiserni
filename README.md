@@ -43,6 +43,8 @@ Kaiiserni, my old nickname = Flemish/Dutch slang for "Kai is not here" ;).
 I have always been passionate about technology since childhood, taught myself coding on an i386 pc with an MS-DOS book in the 90s (qbasic), and have worked as a software engineer ever since.
 I also have an interest in crypto and I am currently working on a private project that leverages programming and financial markets knowledge.
 In addition, I enjoy space and philosophy.
+  
+Make sure to also check out my son/padawan's <a href="https://github.com/formalsnake" target="_blank">github profile</a>!
 
 <!---
 ---
