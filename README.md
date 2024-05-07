@@ -25,7 +25,6 @@
 
 <img align="left" alt="Neovim" width="26px" src="https://github.com/kaiiserni/kaiiserni/blob/main/images/nvim.png" />
 <a href="https://www.linux.org/" target="_blank"> <img align="left" alt="Linux" width="26px" src="https://github.com/kaiiserni/kaiiserni/blob/main/images/tux.png"/> </a> 
-<a href="https://sw.kovidgoyal.net/kitty/" target="_blank"> <img align="left" alt="Kitty" width="26px" src="https://camo.githubusercontent.com/24c2cc0a0a834a9a25971266ef3b772174d85b13670fea2349e34f8a7d2dcbe6/68747470733a2f2f692e696d6775722e636f6d2f7035304f4c5a672e706e67"/> </a> 
 <a href="https://www.npmjs.com/" target="_blank"> <img align="left" alt="NPM" width="26px" src="https://github.com/kaiiserni/kaiiserni/blob/main/images/npm.png"/> </a>
 <a href="https://github.com/tmux/tmux/wiki" target="_blank"> <img align="left" alt="TMUX" width="26px" src="https://github.com/kaiiserni/kaiiserni/blob/main/images/tmux.png"/> </a>
 
